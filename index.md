@@ -3,7 +3,7 @@
 
 # The Hindu News
 
-### सीबीआय, पोलिसांनी धमक्यांबद्दल न्यायाधीशांच्या तक्रारींकडे दुर्लक्ष केले: सर्वोच्च न्यायालय - 2021-08-06
+### [सीबीआय, पोलिसांनी धमक्यांबद्दल न्यायाधीशांच्या तक्रारींकडे दुर्लक्ष केले: सर्वोच्च न्यायालय]() - 2021-08-06
 #### Krishnadas Rajagopal
 [https://www.thehindu.com/news/national/cbi-police-ignore-complaints-from-judges-about-threats-supreme-court/article35760323.ece]
 
