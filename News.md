@@ -1,1 +1,1 @@
-<span style="color:blue"> <h1> News </h1> </span>
+<h1 style="color: #0066ff;"> News </h1>
