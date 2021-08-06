@@ -1,1 +1,1 @@
-The Hindu articles translated to Marathi
+Collection of Select News Articles translated to Marathi
