@@ -1,1 +1,1 @@
-# | &nbsp;&nbsp; [Op-Ed](https://crowned-eagle.github.io/ReadMr/Op-Ed.html)  &nbsp;&nbsp;|&nbsp;&nbsp;  [News](https://crowned-eagle.github.io/ReadMr/News.html)   &nbsp;&nbsp;|&nbsp;&nbsp; [Contact](https://crowned-eagle.github.io/ReadMr/Contact.html) &nbsp;&nbsp;|
+# | &nbsp;&nbsp; [Op-Eds & Editorials](https://crowned-eagle.github.io/ReadMr/Op-Ed.html)  &nbsp;&nbsp;|&nbsp;&nbsp;  [News](https://crowned-eagle.github.io/ReadMr/News.html)   &nbsp;&nbsp;|&nbsp;&nbsp; [Contact](https://crowned-eagle.github.io/ReadMr/Contact.html) &nbsp;&nbsp;|
