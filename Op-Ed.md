@@ -3,7 +3,7 @@
 
 ### अविश्वासाची महामारी: #COVID-19 लसीकरणाचा प्रतिकार करण्यावर
 ##### 2021-08-06
-[https://www.thehindu.com/opinion/editorial/pandemic-of-distrust-the-hindu-editorial-on-resisting-covid-19-vaccination/article35754043.ece]()
+[https://www.thehindu.com/opinion/editorial/pandemic-of-distrust-the-hindu-editorial-on-resisting-covid-19-vaccination/article35754043.ece](https://www.thehindu.com/opinion/editorial/pandemic-of-distrust-the-hindu-editorial-on-resisting-covid-19-vaccination/article35754043.ece)
 
 **लसीकरणाचा प्रतिकार करणारे बहुतेक विशिष्ट सामाजिक, सांस्कृतिक आणि राजकीय प्रोफाइलशी जुळतात**
 
