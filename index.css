@@ -1,0 +1,213 @@
+/* A Free Design by Bryant Smith (bryantsmith.com) */
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image:url(background.png);
+	text-align: left;
+	font-family: Georgia, Times New Roman, Times, serif;
+	font-size: 13px;
+	color: #F1F5F8;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+.dotted_line
+{
+background-image:url(dotted_line.png);
+background-repeat:no-repeat;
+clear:both;
+width:916px;
+height:5px;
+}
+
+
+
+#header
+{
+background-image:url(header.png);
+background-repeat:no-repeat;
+width:921px;
+}
+
+
+#header h1
+{
+display:block;
+float:right;
+margin-left:17px;
+color:#000000;
+text-align:left;
+font-size:28px;
+font-weight:bold;
+font-family:Arial, Helvetica, sans-serif;
+padding-right:20px;
+}
+
+
+#header ul {
+display:block;
+	padding: 0px;
+	list-style-type: none;
+	overflow:hidden;
+	width:650px;
+	float:left;
+}
+#header ul li , #header ul li a, #header ul li a:visited{
+	float:left;
+	margin: 0px;
+	text-align:center;
+	line-height:40px;
+	color:#000000;
+	font-size:16px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#header ul li a:hover{
+color:#C9E1FA;
+}
+
+
+
+#main 
+{
+width:916px;
+margin-top:30px;
+margin-bottom:15px;
+}
+
+
+#main .main_left
+{
+width:458px;
+background-image:url(main_top.png);
+background-repeat:no-repeat;
+text-align:center;
+float:left;
+}
+
+#main .main_left h1
+{
+padding-top:20px;
+padding-left:40px;
+color:#FFFFFF;
+font-size:28px;
+}
+
+#main .main_left h3
+{
+padding-bottom:20px;
+padding-left:50px;
+color:#000000;
+font-size:18px;
+}
+
+
+#main .main_left h4
+{
+padding-bottom:20px;
+padding-left:50px;
+color:#FFFFFF;
+font-size:14px;
+}
+
+
+
+
+#main .main_right
+{
+position: absolute;
+left: 0px;
+top: 100px;
+padding-top:0px;
+padding-left:50px;
+height:auto;
+width:458px;
+background-image:url(main_body.png);
+background-repeat:repeat-y;
+color:#FFFFFF;
+padding-bottom:20px;
+float:left;
+}
+
+#main .main_right h2
+{
+font:Verdana, Arial, Helvetica, sans-serif;
+font-size:24px;
+color:0000FF;
+padding-bottom:15px;
+}
+
+main .main_right h1
+{
+font:Verdana, Arial, Helvetica, sans-serif;
+font-size:24px;
+color:#FFFFFF;
+padding-bottom:15px;
+}
+
+#main .main_right p
+{
+line-height:20px;
+color:#FFFFFF;
+}
+
+
+
+
+
+
+#page
+{
+  margin: 0 auto 0 auto; 
+  margin-top:35px;
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  width: 921px;
+}
+
+
+
+
+
+#footer {
+display:block;
+width: 921px;
+height:74px;
+background: url(footer.png) no-repeat;
+text-align:left;
+font-size:9px;
+line-height:25px;
+}
+
+#footer p{
+padding-right:20px;
+text-align:left;
+}
+
+#footer, #footer a, #footer a:visited{
+color:#FFFFFF;
+}
+
+#footer a:hover{
+text-decoration:none;
+color:#C9E1FA;
+}
