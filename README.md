@@ -1,1 +1,1 @@
-Collection of Select News Articles translated to Marathi
+Collection of Select Articles translated to Marathi
