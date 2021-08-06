@@ -1,5 +1,1 @@
-#THA_MR
-
-The Hindu Opinion
-
-THe Hindu News
+The Hindu articles translated to Marathi
