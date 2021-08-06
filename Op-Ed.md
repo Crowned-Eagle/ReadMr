@@ -5,7 +5,7 @@
 ##### 2021-08-06
 [https://www.thehindu.com/opinion/editorial/pandemic-of-distrust-the-hindu-editorial-on-resisting-covid-19-vaccination/article35754043.ece](https://www.thehindu.com/opinion/editorial/pandemic-of-distrust-the-hindu-editorial-on-resisting-covid-19-vaccination/article35754043.ece)
 
-![Joe Biden](https://github.com/Crowned-Eagle/ReadMr/blob/main/Files/Joe_Biden_50pc.png)
+![Joe Biden](/Files/Joe_Biden_50pc.png)
 ###### "Joe Biden" by Gage Skidmore is licensed with CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/
 
 **लसीकरणाचा प्रतिकार करणारे बहुतेक विशिष्ट सामाजिक, सांस्कृतिक आणि राजकीय प्रोफाइलशी जुळतात**
