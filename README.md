@@ -1,2 +1,4 @@
 # THA_Mr
-The Hindu articles translated to Marathi
+The Hindu Opinion
+
+THe Hindu News
