@@ -1,4 +1,4 @@
-### [Home](https://crowned-eagle.github.io/THAMr/index.html)
+### [Home](https://crowned-eagle.github.io/ReadMr/index.html)
 <h1 style="color: #e60000;"> Op-Eds and Editorials </h1>
 
 ### अविश्वासाची महामारी: #COVID-19 लसीकरणाचा प्रतिकार करण्यावर
