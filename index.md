@@ -1,1 +1,1 @@
-# | &nbsp;&nbsp; [Op-ED](https://crowned-eagle.github.io/THAMr/Op-Ed.html)  &nbsp;&nbsp;|&nbsp;&nbsp;  [News](https://crowned-eagle.github.io/THAMr/News.html)   &nbsp;&nbsp;|&nbsp;&nbsp; [Contact](https://crowned-eagle.github.io/THAMr/Contact.html) &nbsp;&nbsp;|
+# | &nbsp;&nbsp; [Op-ED](https://crowned-eagle.github.io/THAMr/Op-Ed.html)  &nbsp;&nbsp;|&nbsp;&nbsp;  [News](https://crowned-eagle.github.io/THAMr/News.md)   &nbsp;&nbsp;|&nbsp;&nbsp; [Contact](https://crowned-eagle.github.io/THAMr/Contact.html) &nbsp;&nbsp;|
