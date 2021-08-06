@@ -5,8 +5,7 @@
 ### गुंतवणूक: पृथ्वीवरील सर्वात मोठा कार्यक्रम
 ##### Morgan Housel, 2021-03-09
 [https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/](https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/)
-![Investing_Graphic](/Files/SC_India_50pc.png)
-
+![Investing_Graphic](/Files/Greatest_Show.jpg)
 
 
 मी दोन लहान गोष्टी शेअर करू इच्छितो ज्यांचा गुंतवणूकीशी काहीही संबंध नाही. मी तुम्हाला काहीतरी महत्त्वाचं आणि दुर्लक्षित करू इच्छितो: गुंतवणूक हे दिसण्यापेक्षा एक व्यापक क्षेत्र आहे 
