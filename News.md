@@ -6,6 +6,7 @@
 [https://www.thehindu.com/news/national/cbi-police-ignore-complaints-from-judges-about-threats-supreme-court/article35760323.ece](https://www.thehindu.com/news/national/cbi-police-ignore-complaints-from-judges-about-threats-supreme-court/article35760323.ece)
 
 ![Supreme Court of India](/Files/SC_India_50pc.png)
+Image Source:The Wire
 
 **सर्वोच्च न्यायालयाने न्यायाधीशांच्या संरक्षणासाठी विशेष दल स्थापन करण्याची सूचना केली**
 
