@@ -1,4 +1,4 @@
-#[Home](Home) <h1 style="color: #0066ff;"> News </h1>
+### [Home](https://crowned-eagle.github.io/THAMr/index.html) <h1 style="color: #0066ff;"> News </h1>
 
 ### [सीबीआय, पोलिसांनी धमक्यांबद्दल न्यायाधीशांच्या तक्रारींकडे दुर्लक्ष केले: सर्वोच्च न्यायालय]()
 ##### Krishnadas Rajagopal, 2021-08-06
