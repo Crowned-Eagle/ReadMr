@@ -5,8 +5,7 @@
 ##### 2021-08-07
 [https://www.thehindu.com/opinion/editorial/rewind-to-fast-forward-the-hindu-editorial-on-retrospective-tax/article35776104.ece](https://www.thehindu.com/opinion/editorial/rewind-to-fast-forward-the-hindu-editorial-on-retrospective-tax/article35776104.ece)
 
-![Retrospective Taxation](/Files/)
-###### Source: 
+![Retrospective Taxation](/Files/Retrospective_Tax.png)
 
 **पूर्वलक्षी करावर विलंबित रीसेट ही गुंतवणूकदारांचा विश्वास परत मिळविण्याची केवळ पहिली पायरी आहे**
 
