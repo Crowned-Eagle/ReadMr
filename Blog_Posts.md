@@ -2,7 +2,7 @@
 ### [Home](https://crowned-eagle.github.io/ReadMr/index.html)
 <h1 style="color: #e60000;"> Blog Posts </h1>
 
-### गुंतवणूक: पृथ्वीवरील सर्वात मोठा कार्यक्रम
+### गुंतवणूक: पृथ्वीवरील सर्वात मोठा शो
 ##### Morgan Housel, 2021-03-09
 [https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/](https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/)
 ![Investing_Graphic](/Files/Greatest_Show.jpg)
