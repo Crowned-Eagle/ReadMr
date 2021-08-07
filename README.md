@@ -1,2 +1,3 @@
 Collection of Select Articles translated to Marathi
-[Here](https://is.gd/ReadMr)
+
+[Click Here to Visit](https://is.gd/ReadMr)
