@@ -4,7 +4,7 @@
 
 ### गुंतवणूक: पृथ्वीवरील सर्वात मोठा शो
 ##### Morgan Housel, 2021-03-09
-[https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/](https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/)
+
 ![Investing_Graphic](/Files/Greatest_Show.jpg)
 
 
@@ -92,3 +92,5 @@
 मुद्दा असा आहे की गुंतवणूकीशी काहीही संबंध नसलेल्या गोष्टी पाहून आपण गुंतवणूकीबद्दल शिकण्यासाठी आपल्या मार्गातून बाहेर गेले पाहिजे. आणि गुंतवणूकीकडे पाहून गुंतवणूकीशी काहीही संबंध नसलेल्या गोष्टींबद्दल आपण शिकले पाहिजे.
 
 हे अधिक मजेदार आहे आणि आपल्याला सत्याच्या जवळ आणते.
+
+[https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/](https://www.collaborativefund.com/blog/investing-the-greatest-show-on-earth/)
