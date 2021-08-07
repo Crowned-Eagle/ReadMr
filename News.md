@@ -3,7 +3,6 @@
 
 ### सीबीआय, पोलिसांनी धमक्यांबद्दल न्यायाधीशांच्या तक्रारींकडे दुर्लक्ष केले: सर्वोच्च न्यायालय
 ##### Krishnadas Rajagopal, 2021-08-06
-[https://www.thehindu.com/news/national/cbi-police-ignore-complaints-from-judges-about-threats-supreme-court/article35760323.ece](https://www.thehindu.com/news/national/cbi-police-ignore-complaints-from-judges-about-threats-supreme-court/article35760323.ece)
 
 ![Supreme Court of India](/Files/SC_India_50pc.png)
 Image Source:The Wire
@@ -37,3 +36,5 @@ Image Source:The Wire
 झारखंडचे श्री. रंजन यांनी स्पष्ट केले की, हे प्रकरण ३० जुलै रोजी सीबीआयकडे सोपविण्यात आले कारण सुरुवातीला चौकशीचा आरोप असलेल्या राज्य पोलिसांच्या २२ सदस्यीय विशेष तपास पथकाला "सीमेपलीकडील परिणामांसह मोठे कट" दर्शविणारे "बरेच पुरावे" सापडले. ते म्हणाले की, या प्रकरणात दोन चालकांना अटक करण्यात आली असून पोलिस पथकाने त्यांची चौकशी केली.
 
 धनबादमध्ये सकाळच्या जॉगिंगसाठी बाहेर असताना न्यायाधीश आनंद यांना वाहनाने प्राणघातक रित्या खाली पाडले.
+
+[https://www.thehindu.com/news/national/cbi-police-ignore-complaints-from-judges-about-threats-supreme-court/article35760323.ece](https://www.thehindu.com/news/national/cbi-police-ignore-complaints-from-judges-about-threats-supreme-court/article35760323.ece)
